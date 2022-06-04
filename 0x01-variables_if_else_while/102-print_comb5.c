@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - Writes combinations of 00-99 Writes all unique combinations of 2 digit numbers
+ * main - Writes combinations of 00-99
+ * Writes all unique combinations of 2 digit numbers
  *
  * Return: 0 for success
 */
