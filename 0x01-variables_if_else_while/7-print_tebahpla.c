@@ -3,8 +3,7 @@
 #include <time.h>
 
 /**
- * main - Prints alphabet
- * 
+ * main - Prints alphabet 
  *
  *
  * Return: 0 for success
