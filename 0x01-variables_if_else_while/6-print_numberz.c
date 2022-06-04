@@ -6,8 +6,6 @@
  * main - entry point
  *
  *
- * Description: Prints numbers 0-9
- *
  * Return: 0 for success
 */
 int main(void)
